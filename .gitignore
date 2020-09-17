@@ -1,5 +1,7 @@
 .DS_Store
 node_modules
+vue/node_modules
+httpServer/node_modules
 /dist
 
 
